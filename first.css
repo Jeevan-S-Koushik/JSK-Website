@@ -107,7 +107,7 @@
 /* #developers{
     border: 3px solid grey;
 } */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   #desktop{
       display: none;
   }
