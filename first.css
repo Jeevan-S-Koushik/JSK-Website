@@ -110,18 +110,15 @@
     border: 3px solid grey;
 } */
 @media screen and (max-width: 1200px) {
-  #desktop{
-      display: none;
-  }
-  /* body{
-      background-color: lightblue;
-  } */
-  #test{
-      display: block;
-      /* visibility: visible; */
-      background-color: black;
-      color: red;
-  }
+  
+  #btn1{
+    margin-left: 10%;
+    margin-top: 30px;
+    background-color: transparent;
+    border: 0vh;
+    color: gray;
+    font-size: 22px;
+}
 }
 #about{
     margin-top: 200px;
